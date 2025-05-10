@@ -1,0 +1,11 @@
+D:\FlairsTechTask\FlairsTech\src\main\java\apis\ApisAccountManagement.java
+D:\FlairsTechTask\FlairsTech\src\main\java\pages\Admin.java
+D:\FlairsTechTask\FlairsTech\src\main\java\pages\BasePage.java
+D:\FlairsTechTask\FlairsTech\src\main\java\pages\Dashboard.java
+D:\FlairsTechTask\FlairsTech\src\main\java\pages\Login.java
+D:\FlairsTechTask\FlairsTech\src\main\java\pages\UserManagement.java
+D:\FlairsTechTask\FlairsTech\src\main\java\utilities\BrowserActions.java
+D:\FlairsTechTask\FlairsTech\src\main\java\utilities\DriverFactory.java
+D:\FlairsTechTask\FlairsTech\src\main\java\utilities\ElementActions.java
+D:\FlairsTechTask\FlairsTech\src\main\java\utilities\JsonFileManager.java
+D:\FlairsTechTask\FlairsTech\src\main\java\utilities\PropertiesReader.java
